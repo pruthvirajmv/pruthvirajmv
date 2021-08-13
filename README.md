@@ -29,10 +29,19 @@ Excited to kick-start my programming journey as a Web developer with my professi
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-### **🛠 &nbsp;Key Full Stack Projects**
+### **🔭  &nbsp;Key Full Stack Projects**
 
 - [E-commerce](https://baddymart.netlify.app/)
 - [Social Media](https://baddybuzz.netlify.app/)
 - [Video Library](https://baddyshots.netlify.app/)
+
+***
+
+
+
+#### Let's connect here: [![LinkedIn](https://img.shields.io/badge/-Pruthviraj_M_V-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pruthvirajmv) [![Twitter](https://img.shields.io/badge/-@pruthviraj528_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/pruthviraj528) [![Hashnode](https://img.shields.io/badge/-@pruthviraj-833ab4?style=flat&logo=Hashnode&logoColor=white)](https://hashnode.com/@pruthviraj)
+
+
+
 
 ***
