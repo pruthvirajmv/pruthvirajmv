@@ -1,7 +1,8 @@
 # Hallo there 🙌
 
-I am Pruthviraj M V, a 3+ years experienced Mechanical Product Development Engineer turned into a web developer with passion and strong determination.  
-For the past 6  months, I have been into MERN stack web development and documented my learnings through several full stack web-apps  
+I am Pruthviraj M V,  
+a 3+ years experienced Mechanical Product Development Engineer turned into a web developer with passion and strong determination.  
+For the past 6  months, I have been into MERN stack web development and documented my learnings making few full stack web-apps  
 Excited to kick-start my programming journey as a Web developer to explore more and keep learning...
 
 
