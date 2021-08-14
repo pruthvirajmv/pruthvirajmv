@@ -1,9 +1,12 @@
 # Hallo there 🙌
 
-I am Pruthviraj M V,  
-3+ years experienced Mechanical Product Development Engineer turned into a web developer with passion and strong determination.  
-For the past 6  months, I have been into MERN stack web development and documented my learnings making few full stack web-apps  
-Excited to kick-start my programming journey as a Web developer to explore more and keep learning...
+I am Pruthviraj M V,    
+
+📌 3+ years experienced Mechanical Product Development Engineer turned into a web developer with passion and strong determination. 
+  
+📌 For the past 6-7  months, I have been into MERN stack web development 
+  
+📌 Excited to kick-start my programming journey as a Web developer to explore more and keep learning...
 
 
 ### **🛠 &nbsp;Tech Stack**
@@ -32,6 +35,8 @@ Excited to kick-start my programming journey as a Web developer to explore more 
 
 ### **🔭  &nbsp;Key Full Stack Projects**
 
+  Documented my learnings making few full stack web-apps
+
 - [E-commerce](https://baddymart.netlify.app/)
 - [Social Media](https://baddybuzz.netlify.app/)
 - [Video Library](https://baddyshots.netlify.app/)
@@ -40,7 +45,10 @@ Excited to kick-start my programming journey as a Web developer to explore more 
 
 
 
-#### Let's connect here: [![LinkedIn](https://img.shields.io/badge/-Pruthviraj_M_V-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pruthvirajmv) [![Twitter](https://img.shields.io/badge/-@pruthviraj528_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/pruthviraj528) [![Hashnode](https://img.shields.io/badge/-@pruthviraj-833ab4?style=flat&logo=Hashnode&logoColor=white)](https://hashnode.com/@pruthviraj)
+#### Let's connect here: 
+[![LinkedIn](https://img.shields.io/badge/-Pruthviraj_M_V-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pruthvirajmv) 
+[![Twitter](https://img.shields.io/badge/-@pruthviraj528_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/pruthviraj528) 
+[![Hashnode](https://img.shields.io/badge/-@pruthviraj-833ab4?style=flat&logo=Hashnode&logoColor=white)](https://hashnode.com/@pruthviraj)
 
 
 
